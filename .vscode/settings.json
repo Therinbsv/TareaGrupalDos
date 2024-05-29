@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "TareaGrupalDos/SeriesNumericas",
+        "TareaGrupalDos/SeriesCaracteres",
+        "TareaGrupalDos/Figuras"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
